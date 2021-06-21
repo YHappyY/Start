@@ -1,0 +1,7 @@
+1、GitHub首页
+2、点击New按钮
+3、在Repository name下为项目取一个名，Description中填写一些项目简述
+4、点击Create repository
+5、Get started by creating a new file or uploading an existing file（首先创建一个新文件或上传一个现有文件）. 
+6、点击上传一个现有文件
+7、点击choose your files 上传文件
